@@ -1,4 +1,4 @@
-### Olá eu sou a Lidiane Ferreira!
+### Olá, sou a Lidiane Ferreira!
 
 - 🔭 Projetos com foco em front-end.
 - 🌱 Estudando HTML-CSS e JavaScript
